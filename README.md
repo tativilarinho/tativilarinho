@@ -112,3 +112,4 @@ Minha stack de estudos e ferramentas atuais inclui:
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=222222&icon_color=222222&text_color=555555" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=222222&text_color=555555" alt="Top Languages" />
 </div>
+
