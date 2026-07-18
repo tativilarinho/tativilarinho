@@ -4,7 +4,7 @@
   <br><br>
   
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Quality+Assurance+(QA);Testes+Manuais/Funcionais;Analise+Desenvolvimento+de+Sistemas;DevOps/SRE" alt="Typing effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Quality+Assurance+(QA);Testes+Manuais/Automatizados;SDET(Software Development Engineer in Test);Analise+e+Desenvolvimento+de+Sistemas;DevOps;SRE" alt="Typing effect" />
   </a>
   
   <br>
