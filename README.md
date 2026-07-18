@@ -3,9 +3,9 @@
   
   <br><br>
   
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Quality+Assurance+(QA);Testes+Manuais/Automatizados;SDET(Software Development Engineer in Test);Analise+e+Desenvolvimento+de+Sistemas;DevOps;SRE" alt="Typing effect" />
-  </a>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Quality+Assurance+(QA);Testes+Manuais/Automatizados;SDET+(Software+Development+Engineer+in+Test);Analise+e+Desenvolvimento+de+Sistemas;DevOps;SRE" alt="Typing effect" />
+</a>
   
   <br>
 
@@ -37,14 +37,6 @@ Meu objetivo principal é atuar na construção e validação de aplicações, g
 
 Minha stack de estudos e ferramentas atuais inclui:
 
-### 💻 Desenvolvimento Backend & Banco de Dados
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### ⚙️ Qualidade de Software (QA) & Automação
 ![Testes Manuais](https://img.shields.io/badge/Testes_Manuais-1E90FF?style=for-the-badge)
 ![Automação de Testes](https://img.shields.io/badge/Automação_de_Testes-4B0082?style=for-the-badge)
@@ -54,6 +46,16 @@ Minha stack de estudos e ferramentas atuais inclui:
 ![REST API](https://img.shields.io/badge/REST_API-007BFF?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### 💻 Desenvolvimento Web, Backend & Banco de Dados
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔄 Metodologias Ágeis & DevOps
 ![Agile](https://img.shields.io/badge/Agile-696969?style=for-the-badge)
