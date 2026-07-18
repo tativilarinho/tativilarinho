@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:00FF7F&height=120&section=header&text=Tatiane+Vilarinho&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
-  
-  <br><br>
-  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:00FF7F&height=120&section=header&text=Tatiane+Vilarinho&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Header Banner" /> 
+  <br><br> 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Quality+Assurance+(QA);Testes+Manuais/Automatizados;SDET+(Software+Development+Engineer+in+Test);Analise+e+Desenvolvimento+de+Sistemas;DevOps;SRE" alt="Typing effect" />
 </a>
-  
   <br>
 
   <a href="mailto:tativilarinho.arq@gmail.com"><img src="https://img.shields.io/badge/Email-222222?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
